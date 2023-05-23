@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Setup League Tools",
+            "type": "python",
+            "request": "launch",
+            "program": "main.py",
+            "args": ["--file_path=..\\Config\\league_tools.ini"],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
